@@ -23,10 +23,10 @@ This is the Git for CSCI 213 Software Development. One class was added, Car.java
 	* returns copy of a car
 
 ### table
-|:  Car    :|:  Vehicle :|
-| ---------------------- |
-|:  Lexus  :|:   Van    :|
-|: 4 doors :|: Scooter  :|
+| Car  | Vehicle |
+| ------------- |:-------------:|
+| Lexus     | Van     |
+| 4 door     | Scooter   |
 
 
 
